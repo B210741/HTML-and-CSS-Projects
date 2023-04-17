@@ -1,0 +1,20 @@
+/*one_page_website.css*/
+
+body {
+    background-color: beige;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    color:cadetblue;
+}
+
+h1 {
+    color: darkorange;
+    font-family: Georgia, serif;
+}
+
+form input[type="text"] {
+    width: 20%;
+    margin: 5px;
+    border: 2px solid peachpuff;
+    border-radius: 7px;
+}
